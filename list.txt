@@ -1,0 +1,2 @@
+Reg Number: 1 Name : asish Age : 22 Adress : santnagar Phone Number : 78945612 Blood Group : O+ Disease : Chest Pain 
+Reg Number: 2 Name : pratham Age : 23 Adress : maharashtra Phone Number : 78945621 Blood Group : O+ Disease : Heart Attack 
